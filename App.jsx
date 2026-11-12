@@ -94,4 +94,4 @@ export default function KitchenComplianceApp() {
               value={newUnit}
               onChange={(e) => setNewUnit(e.target.value)}
               className="bg-slate-950 border border-slate-700 rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:border-indigo-500"
-            />
+            >
